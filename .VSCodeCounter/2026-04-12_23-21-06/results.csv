@@ -1,0 +1,43 @@
+"filename", "language", "JSON with Comments", "TypeScript", "TypeScript JSX", "Markdown", "JSON", "JavaScript", "comment", "blank", "total"
+"c:\movil_fisio_expo\README.md", "Markdown", 0, 0, 0, 146, 0, 0, 0, 52, 198
+"c:\movil_fisio_expo\app.json", "JSON with Comments", 50, 0, 0, 0, 0, 0, 0, 1, 51
+"c:\movil_fisio_expo\app\(auth)\login.tsx", "TypeScript JSX", 0, 0, 182, 0, 0, 0, 3, 9, 194
+"c:\movil_fisio_expo\app\(auth)\register.tsx", "TypeScript JSX", 0, 0, 205, 0, 0, 0, 10, 24, 239
+"c:\movil_fisio_expo\app\(auth)\welcome.tsx", "TypeScript JSX", 0, 0, 74, 0, 0, 0, 3, 6, 83
+"c:\movil_fisio_expo\app\(tabs)\ChatMotriCare.tsx", "TypeScript JSX", 0, 0, 236, 0, 0, 0, 0, 21, 257
+"c:\movil_fisio_expo\app\(tabs)\HistorialCitas.tsx", "TypeScript JSX", 0, 0, 99, 0, 0, 0, 0, 9, 108
+"c:\movil_fisio_expo\app\(tabs)\MisCitas.tsx", "TypeScript JSX", 0, 0, 241, 0, 0, 0, 0, 20, 261
+"c:\movil_fisio_expo\app\(tabs)\_layout.tsx", "TypeScript JSX", 0, 0, 162, 0, 0, 0, 2, 13, 177
+"c:\movil_fisio_expo\app\(tabs)\account.tsx", "TypeScript JSX", 0, 0, 203, 0, 0, 0, 5, 29, 237
+"c:\movil_fisio_expo\app\(tabs)\index.tsx", "TypeScript JSX", 0, 0, 417, 0, 0, 0, 24, 43, 484
+"c:\movil_fisio_expo\app\(tabs)\mis_rutinas.tsx", "TypeScript JSX", 0, 0, 141, 0, 0, 0, 2, 16, 159
+"c:\movil_fisio_expo\app\(tabs)\pago.tsx", "TypeScript JSX", 0, 0, 214, 0, 0, 0, 3, 29, 246
+"c:\movil_fisio_expo\app\(tabs)\rutinas.tsx", "TypeScript JSX", 0, 0, 198, 0, 0, 0, 4, 11, 213
+"c:\movil_fisio_expo\app\+not-found.tsx", "TypeScript JSX", 0, 0, 21, 0, 0, 0, 0, 2, 23
+"c:\movil_fisio_expo\app\_layout.tsx", "TypeScript JSX", 0, 0, 33, 0, 0, 0, 0, 6, 39
+"c:\movil_fisio_expo\app\ejercicio\[id].tsx", "TypeScript JSX", 0, 0, 154, 0, 0, 0, 79, 19, 252
+"c:\movil_fisio_expo\app\modal.tsx", "TypeScript JSX", 0, 0, 26, 0, 0, 0, 0, 4, 30
+"c:\movil_fisio_expo\app\practicaIA.tsx", "TypeScript JSX", 0, 0, 336, 0, 0, 0, 3, 33, 372
+"c:\movil_fisio_expo\app\rutina\[id].tsx", "TypeScript JSX", 0, 0, 198, 0, 0, 0, 3, 15, 216
+"c:\movil_fisio_expo\components\external-link.tsx", "TypeScript JSX", 0, 0, 21, 0, 0, 0, 2, 3, 26
+"c:\movil_fisio_expo\components\haptic-tab.tsx", "TypeScript JSX", 0, 0, 16, 0, 0, 0, 1, 2, 19
+"c:\movil_fisio_expo\components\hello-wave.tsx", "TypeScript JSX", 0, 0, 18, 0, 0, 0, 0, 2, 20
+"c:\movil_fisio_expo\components\parallax-scroll-view.tsx", "TypeScript JSX", 0, 0, 73, 0, 0, 0, 0, 7, 80
+"c:\movil_fisio_expo\components\themed-text.tsx", "TypeScript JSX", 0, 0, 55, 0, 0, 0, 0, 6, 61
+"c:\movil_fisio_expo\components\themed-view.tsx", "TypeScript JSX", 0, 0, 10, 0, 0, 0, 0, 5, 15
+"c:\movil_fisio_expo\components\ui\collapsible.tsx", "TypeScript JSX", 0, 0, 40, 0, 0, 0, 0, 6, 46
+"c:\movil_fisio_expo\components\ui\icon-symbol.ios.tsx", "TypeScript JSX", 0, 0, 31, 0, 0, 0, 0, 2, 33
+"c:\movil_fisio_expo\components\ui\icon-symbol.tsx", "TypeScript JSX", 0, 0, 26, 0, 0, 0, 11, 5, 42
+"c:\movil_fisio_expo\constants\theme.ts", "TypeScript", 0, 41, 0, 0, 0, 0, 8, 5, 54
+"c:\movil_fisio_expo\eslint.config.js", "JavaScript", 0, 0, 0, 0, 0, 8, 1, 2, 11
+"c:\movil_fisio_expo\hooks\use-color-scheme.ts", "TypeScript", 0, 1, 0, 0, 0, 0, 0, 1, 2
+"c:\movil_fisio_expo\hooks\use-color-scheme.web.ts", "TypeScript", 0, 13, 0, 0, 0, 0, 3, 6, 22
+"c:\movil_fisio_expo\hooks\use-theme-color.ts", "TypeScript", 0, 14, 0, 0, 0, 0, 4, 4, 22
+"c:\movil_fisio_expo\package-lock.json", "JSON", 0, 0, 0, 0, 14278, 0, 0, 1, 14279
+"c:\movil_fisio_expo\package.json", "JSON", 0, 0, 0, 0, 74, 0, 0, 1, 75
+"c:\movil_fisio_expo\scripts\reset-project.js", "JavaScript", 0, 0, 0, 0, 0, 89, 10, 14, 113
+"c:\movil_fisio_expo\server.js", "JavaScript", 0, 0, 0, 0, 0, 23, 4, 7, 34
+"c:\movil_fisio_expo\src\context\AuthContext.tsx", "TypeScript JSX", 0, 0, 40, 0, 0, 0, 0, 8, 48
+"c:\movil_fisio_expo\src\services\supabase.ts", "TypeScript", 0, 4, 0, 0, 0, 0, 0, 1, 5
+"c:\movil_fisio_expo\tsconfig.json", "JSON with Comments", 17, 0, 0, 0, 0, 0, 0, 1, 18
+"Total", "-", 67, 73, 3470, 146, 14352, 120, 185, 451, 18864
